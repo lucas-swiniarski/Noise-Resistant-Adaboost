@@ -15,10 +15,12 @@ Righ image : Adaboost Cumulative weight distribution
 Both informations tells us how many points account for the most loss weight. On a noisy setting, very few points (the outliers - mislabeled points) take all the weights. Our regularization find those points and penalize them.
 
 1. Adaboost
+
 <img src="images/adaboost_weight_distribution.png" width="400" height="400" /><img src="images/adaboost_cumulative_weight_distribution.png" width="400" height="400" />
 
 2. Noise resistant Adaboost
-<img src="images/newadaboost_weight_distribution.png" width="400" height="400" /><img src="images/newadaboost_cumulative_weight_distribution.png" width="400" height="400" />
+
+<img src="images/newadaboost_weight_distribution.png" width="325" height="325" /><img src="images/newadaboost_cumulative_weight_distribution.png" width="325" height="325" />
 
 
 ## Data
