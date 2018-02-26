@@ -20,7 +20,7 @@ Both informations tells us how many points account for the most loss weight. On 
 
 2. Noise resistant Adaboost
 
-![NRAdaboost Weights](images/newadaboost_weight_distribution.png =250x) ![NRAdaboost Cumulative Weights](images/newadaboost_cumulative_weight_distribution.png=250x)
+![NRAdaboost Weights](images/newadaboost_weight_distribution.png =250x250) ![NRAdaboost Cumulative Weights](images/newadaboost_cumulative_weight_distribution.png | width=250)
 
 ## Data
 
