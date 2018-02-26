@@ -16,11 +16,11 @@ Both informations tells us how many points account for the most loss weight. On 
 
 1. Adaboost
 
-![Adaboost Weights](images/adaboost_weight_distribution.png =250x "Weight Distribution") ![Adaboost Cumulative Weights](images/adaboost_cumulative_weight_distribution.png =250x "Cumulative Weight Distribution")
+![Adaboost Weights](images/adaboost_weight_distribution.png =250x) ![Adaboost Cumulative Weights](images/adaboost_cumulative_weight_distribution.png =250x)
 
 2. Noise resistant Adaboost
 
-![NRAdaboost Weights](images/newadaboost_weight_distribution.png =250x "Weight Distribution") ![NRAdaboost Cumulative Weights](images/newadaboost_cumulative_weight_distribution.png =250x "Cumulative Weight Distribution")
+![NRAdaboost Weights](images/newadaboost_weight_distribution.png =250x) ![NRAdaboost Cumulative Weights](images/newadaboost_cumulative_weight_distribution.png=250x)
 
 ## Data
 
